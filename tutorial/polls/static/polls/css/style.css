@@ -1,0 +1,12 @@
+li a {
+    color: green;
+}
+
+body {
+    background: white url("../images/background.jpg") no-repeat;
+    background-size: contain;
+}
+
+.list-group {
+    margin: 20px;
+}
